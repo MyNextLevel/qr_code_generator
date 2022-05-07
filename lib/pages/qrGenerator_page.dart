@@ -159,7 +159,7 @@ class _QRGeneratorPageState extends State<QRGeneratorPage> {
   }
 
   void openLink() {
-    String url = 'https://github.com/arslanmurat06/qrwebhandlerflutter';
+    String url = 'https://github.com/MyNextLevel/qr_code_generator';
     html.window.open(url, '_blank');
   }
 
