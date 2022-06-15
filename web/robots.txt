@@ -1,0 +1,10 @@
+User-agent: Googlebot
+Disallow: /
+
+User-agent: Googlebot
+User-agent: AdsBot-Google
+Disallow: /
+
+User-agent: *
+Disallow: /
+Sitemap: https://qr-code-generator-22ce8.web.app/#/sitemap.xml
